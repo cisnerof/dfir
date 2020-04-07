@@ -28,6 +28,18 @@ dnSpy
 Exeinfo PE
 * http://exeinfo.atwebpages.com/
 
+FSMonitor for Mac
+* https://fsmonitor.com
+
+Objective-See FileMonitor
+* https://objective-see.com/blog/blog_0x48.html
+
+Objective-See ProcessMonitor
+* https://objective-see.com/blog/blog_0x47.html
+
+Objective-See KnockKnock
+* https://objective-see.com/products.html
+
 YARA
 * https://github.com/virustotal/yara/releases
 
