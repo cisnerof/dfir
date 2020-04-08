@@ -19,8 +19,10 @@ Easy way to unpack Confuserex 1.0 Max Settings
 How to Unpack ConfuserEx *Easiest Method* (Max Settings) 
 * https://www.youtube.com/watch?v=X0F_-sE-6GU
 
+Mac OS X Malware Analysis 
+* https://digital-forensics.sans.org/community/papers/gcfa/mac-os-malware-analysis_2286
 
-
+5
 # Tools
 dnSpy
 * https://github.com/0xd4d/dnSpy/releases
@@ -30,6 +32,9 @@ Exeinfo PE
 
 FSMonitor for Mac
 * https://fsmonitor.com
+
+LittleSnitch
+* https://www.obdev.at/products/littlesnitch/index.html
 
 Objective-See FileMonitor
 * https://objective-see.com/blog/blog_0x48.html
