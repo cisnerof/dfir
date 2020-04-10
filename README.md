@@ -5,6 +5,8 @@ SANS DFIR Posters
 A little play with the Syscache hive
 * https://blog.1234n6.com/2019/01/a-little-play-with-syscache-hive.html
 
+BAM internals 
+* https://dfir.ru/2020/04/08/bam-internals/
 
 # Malware Analysis
 Powershell Logging Cheat Sheet
@@ -22,7 +24,12 @@ How to Unpack ConfuserEx *Easiest Method* (Max Settings)
 Mac OS X Malware Analysis 
 * https://digital-forensics.sans.org/community/papers/gcfa/mac-os-malware-analysis_2286
 
-5
+
+# OSINT
+Offensive OSINT s01e01 - OSINT & RDP
+* https://www.offensiveosint.io/offensive-osint-s01e01-osint-rdp/
+
+
 # Tools
 dnSpy
 * https://github.com/0xd4d/dnSpy/releases
