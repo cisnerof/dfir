@@ -8,6 +8,19 @@ A little play with the Syscache hive
 BAM internals 
 * https://dfir.ru/2020/04/08/bam-internals/
 
+# Malware Download
+MalwareBazaar
+* https://bazaar.abuse.ch/browse/
+
+Malware Analysis Centre
+* https://practicalsecurityanalytics.com/malware-analysis-center/
+
+Hybrid Analysis
+* https://www.hybrid-analysis.com/
+
+Threatbook
+* https://s.threatbook.cn/
+
 # Malware Analysis
 Powershell Logging Cheat Sheet
 * https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/5ba3dc87e79c703f9bfff29a/1537465479833/Windows+PowerShell+Logging+Cheat+Sheet+ver+Sept+2018+v2.2.pdf
